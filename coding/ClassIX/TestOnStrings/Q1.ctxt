@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Q1
+comment0.text=\r\n\ 1.\ String\ Compression\ Program\r\n\ Write\ a\ Java\ program\ to\ accept\ a\ string\ and\ compress\ it\r\n\ by\ replacing\ consecutive\ repeated\ characters\ with\ the\ \r\n\ character\ followed\ by\ its\ count.\r\n\ Example\:\r\n\ Input\:\ aaabbccccd\r\n\ Output\:\ a3b2c4d1\r\n\ Requirements\:\r\n\ \ Handle\ both\ uppercase\ and\ lowercase\ separately.\r\n\ If\ no\ repetition,\ still\ display\ count\ as\ 1.\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=str
+comment1.target=java.lang.String\ compressString(java.lang.String)
+comment1.text=\r\n\ @param\ str\ Any\ String\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

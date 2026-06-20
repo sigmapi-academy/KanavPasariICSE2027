@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Q5
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Q5\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=str1\ str2
+comment1.target=boolean\ checkRotate(java.lang.String,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

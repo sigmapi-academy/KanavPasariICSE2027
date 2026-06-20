@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DemoOfWhileLoop
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DemoOfWhileLoop\ here.\r\n\ Wrting\ code\ to\ input\ a\ number,\ and\ we\ will\ find\ the\ sum\ of\ \r\n\ all\ the\ natural\ number\ upto\ that\ number.\r\n\ For\ example\:\r\n\ Input\:\r\n\ Enter\ any\ number\:\ 5\r\n\ Output\:\r\n\ 1\ +\ 2\ +\ 3\ +\ 4\ +\ 5\ \=\ 15\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

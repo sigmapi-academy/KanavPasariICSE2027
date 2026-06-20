@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Arithmetic
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArithmeticOperations\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=int\ add(int,\ int)
+comment2.params=x\ y
+comment2.target=float\ add(int,\ float)
+comment3.params=x\ y
+comment3.target=float\ add(float,\ int)
+comment4.params=x\ y
+comment4.target=float\ add(float,\ float)
+comment5.params=x\ y
+comment5.target=double\ add(double,\ double)
+numComments=6

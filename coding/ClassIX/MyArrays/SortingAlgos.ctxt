@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SortingAlgos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SortingAlgos\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=void\ bubblesort(int[])
+comment2.params=a
+comment2.target=void\ selectionSort(int[])
+comment3.params=a\ isAsc
+comment3.target=void\ selectionSort(int[],\ boolean)
+comment3.text=\r\n\ @param\ a\ int[]\r\n\ @param\ isAsc\ if\ value\ is\ true\ then\ it\ arranges\ the\ array\ \r\n\ in\ ascending\ order\ otherwise\ in\ descending\ order\r\n
+comment4.params=a
+comment4.target=void\ insertionSort(int[])
+comment5.params=a\ isAsc
+comment5.target=void\ insertionSort(int[],\ boolean)
+comment5.text=\r\n\ @param\ a\ int[]\r\n\ @param\ isAsc\ if\ value\ is\ true\ then\ it\ arranges\ the\ array\ \r\n\ in\ ascending\ order\ otherwise\ in\ descending\ order\r\n
+numComments=6
