@@ -42,4 +42,8 @@ public class TwoDArrayUtil
             System.out.print("\n");
         }
     }
+    
+    public static void multiplyMatrix(int m1[][], int m2[][], int r[][]){
+        
+    }
 }

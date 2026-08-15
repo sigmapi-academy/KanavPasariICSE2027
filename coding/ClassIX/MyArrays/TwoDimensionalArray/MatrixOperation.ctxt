@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sat Aug 15 09:07:45 IST 2026
+comment0.target=MatrixOperation
+comment0.text=\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=m1 m2
+comment1.target=int[][] add(int[][], int[][])
+comment2.params=m1 m2
+comment2.target=int[][] subtract(int[][], int[][])
+comment3.params=m msg
+comment3.target=void inputInMatrix(int[][], java.lang.String)
+comment4.params=m msg
+comment4.target=void printMatrix(int[][], java.lang.String)
+comment5.params=M1 M2
+comment5.target=int[][] multiplyMatrix(int[][], int[][])
+numComments=6
