@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Aug 18 19:12:43 IST 2026
+comment0.target=SpiralTraversal
+comment0.text=\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=matrix rows cols
+comment2.target=void printClockwise(int[][], int, int)
+numComments=3
