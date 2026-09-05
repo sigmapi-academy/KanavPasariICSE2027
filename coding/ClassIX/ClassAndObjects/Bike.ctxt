@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sat Sep 05 07:59:56 IST 2026
+comment0.target=Bike
+comment0.text=\r\n Write a description of class Bike here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.target=Bike()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3
