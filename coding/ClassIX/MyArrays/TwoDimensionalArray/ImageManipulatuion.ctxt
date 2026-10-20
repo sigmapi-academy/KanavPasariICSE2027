@@ -1,0 +1,17 @@
+#BlueJ class context
+#Tue Oct 20 11:28:23 IST 2026
+comment0.target=ImageManipulatuion
+comment0.text=\r\n Write a description of class ImageManipulatuion here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=image
+comment1.target=void display(int[][])
+comment2.params=image amount
+comment2.target=void adjustBrightness(int[][], int)
+comment3.params=image
+comment3.target=void horizontalFlip(int[][])
+comment4.params=image
+comment4.target=void verticalFlip(int[][])
+comment5.params=image
+comment5.target=void invertImage(int[][])
+comment6.params=args
+comment6.target=void main(java.lang.String[])
+numComments=7

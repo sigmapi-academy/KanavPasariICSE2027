@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Oct 18 10:24:50 IST 2026
+comment0.target=JaggedArray
+comment0.text=\r\n Write a description of class JaggedArray here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
